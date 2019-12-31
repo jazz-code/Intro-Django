@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/ant/.local/share/virtualenvs/Intro-Django-FJEEGhGd/bin/python"
+}
